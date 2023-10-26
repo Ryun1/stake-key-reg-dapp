@@ -168,7 +168,7 @@ export default class App extends React.Component
             },
             minUtxo: "34482",
             poolDeposit: "500000000",
-            keyDeposit: "2000000",
+            keyDeposit: "0",
             maxValSize: 5000,
             maxTxSize: 16384,
             priceMem: 0.0577,
