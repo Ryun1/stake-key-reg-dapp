@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/stake-key-reg-dapp/static/css/main.702f03f2.css",
-    "main.js": "/stake-key-reg-dapp/static/js/main.2fe50935.js",
+    "main.js": "/stake-key-reg-dapp/static/js/main.db452812.js",
     "static/js/787.7c70755e.chunk.js": "/stake-key-reg-dapp/static/js/787.7c70755e.chunk.js",
     "static/media/icons-20.eot": "/stake-key-reg-dapp/static/media/icons-20.cde033c5d3f24283f757.eot",
     "static/media/icons-20.woff": "/stake-key-reg-dapp/static/media/icons-20.1ef633d3a28d0986f63e.woff",
@@ -11,11 +11,11 @@
     "static/media/icons-16.ttf": "/stake-key-reg-dapp/static/media/icons-16.13933033991f62d6bb64.ttf",
     "index.html": "/stake-key-reg-dapp/index.html",
     "main.702f03f2.css.map": "/stake-key-reg-dapp/static/css/main.702f03f2.css.map",
-    "main.2fe50935.js.map": "/stake-key-reg-dapp/static/js/main.2fe50935.js.map",
+    "main.db452812.js.map": "/stake-key-reg-dapp/static/js/main.db452812.js.map",
     "787.7c70755e.chunk.js.map": "/stake-key-reg-dapp/static/js/787.7c70755e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.702f03f2.css",
-    "static/js/main.2fe50935.js"
+    "static/js/main.db452812.js"
   ]
 }
